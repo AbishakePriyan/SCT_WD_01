@@ -4,10 +4,11 @@ This project is a fully responsive, high-level landing page that features a styl
 
 🛠️ Tech Stack
 
-HTML5
+-HTML5
 
-CSS3
+-CSS3
 
+-Vanilla Javascript
 
 
 No frameworks or libraries used – everything is custom built!
